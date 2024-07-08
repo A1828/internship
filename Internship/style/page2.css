@@ -1,0 +1,10 @@
+
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg);
+}
+.box2{
+    border: 5px solid rgb(29, 6, 6);
+    margin: 5% 30% 5% 30%;
+    padding: 5%;
+    background-color: rgb(219, 207, 190);
+}

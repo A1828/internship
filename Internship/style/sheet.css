@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg);
+    background-repeat: no-repeat;
+    
+
+}
+.box1{
+    border: 2px solid red;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2px;
+    margin-bottom: 5%;
+    margin: 1% 30% 1% 30%;
+    /* padding-left: 10%; */
+    padding: 3% 10% 3% 10%;
+
+}
